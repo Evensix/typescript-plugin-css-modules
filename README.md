@@ -1,4 +1,4 @@
-⚠️ **This is an upstream fork with the intent to just drop the additional css libraries form the required dependancy list**
+⚠️ **This is an upstream fork with the intent to just drop the additional css libraries from the required dependancy list**
 
 * * *
 
